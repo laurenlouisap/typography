@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://typographylauren.netlify.app"   #change this to yours
+url: "https://typeinthetalkies.netlify.app"   #change this to yours
 repository: laurenlouisap/typography
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
