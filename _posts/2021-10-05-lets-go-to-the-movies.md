@@ -11,7 +11,7 @@ tags:
   - Media
   - Buildings
 ---
-Despite all the new savvy ways to stream online, when we want to see the new bond or marvel blockbuster we typically head to the cinema. 
+Despite all the new savvy ways to stream online, when we want to see the new bond or marvel blockbuster we instinctively head to the cinema. 
 
 Headed out to see the different typography on brand names on the cinemas dotted around Oxford. 
 
