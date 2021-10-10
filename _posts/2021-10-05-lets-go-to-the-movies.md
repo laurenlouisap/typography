@@ -21,7 +21,7 @@ PICTURE OF MARQUEE
 
 PICTURE OF CURZON
 
-Curzon is a smaller chain of cinemas with most of them being located in London. However, this one can be found on the roof of Westgate shopping centre. Another sans serif typeface in all caps, except this time not shying away from rounded edges on letters such as C and O. This, alongside the almost monospaced lettering on the typography of this branch, gives off a more sophisticated atmosphere. Westgate’s website insists that ‘Curzon offers the finest cinematic experience in Oxford’ which seems reflected in this typography.
+Curzon is a smaller chain of cinemas with most of them being located in London. However, this one can be found on the roof of Westgate shopping centre. Another sans serif typeface in all caps, except this time not shying away from rounded edges on letters such as C and O. This, alongside the almost monospaced lettering on the typography of this branch, gives off a more sophisticated atmosphere. Westgate’s website insists that ‘Curzon offers the finest cinematic experience in Oxford’ which seems reflected in this typography. NEED MORE.
 
 PICTURE OF PALACE
 
