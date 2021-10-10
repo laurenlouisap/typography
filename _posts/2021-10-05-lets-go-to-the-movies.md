@@ -19,15 +19,11 @@ The one we all know and love: the Odeon. Even if you’re not an avid cinema goe
 
 PICTURE OF MARQUEE
 
-PICTURE OF CURZON
-
 ![Image of Curzon cinema in Oxford](../uploads/img_8290.jpg "Oxford Curzon cinema located on The Rooftop Terrace")
 
 Curzon is a smaller chain of cinemas with most of them being located in London. However, this one can be found on the roof of Westgate shopping centre. 
 
-We find ourselves another sans serif typeface in all caps, except this time not shying away from those rounded edges on letters such as C and O. It is also monospaced which seems to be a design choice for this particular brand as it is not on their name when googling the brand or viewing the website. These features together create an idea of sophistication and as Westgate's website states 'Curzon offers the finest cinematic experience in Oxford', this seems to match up perfectly.
-
-
+We find ourselves another sans serif typeface in all caps, except this time not shying away from those rounded edges on letters such as C and O. The typeface is of a regular weight and low contrast, maintaining legibility and simplicity. It is also monospaced which seems to be a design choice for this particular brand as it is not on their name when googling the brand or viewing the website. These features together create a slightly more luxurious tone as they allow for ease on the eyes when reading the name. As Westgate's website states 'Curzon offers the finest cinematic experience in Oxford', this seems to match up perfectly.
 
 PICTURE OF PALACE
 
