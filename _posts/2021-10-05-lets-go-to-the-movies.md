@@ -29,8 +29,12 @@ PICTURE OF PALACE
 
 A hidden gem of Oxford entertainment, The Ultimate Picture Palace is tucked away down Cowley Road.
 
-There seems to be a pattern emerging as the typography is once again sans serif, low contrast and in capital letters. The width is condensed on some of the letters such as U and T and some aspects aren’t quite the same height such as the rounded parts of letters R and P. This seems the most like typical cinema signs as ‘little time would have been given to typographic niceties’ so sometimes the letters didn’t look like they were all part of the same typeface. Perhaps this is an attempt to feel more authentic? It is an independent cinema after all, and it hasn’t tried to be too modern as it ‘still has the original box office window’ from 1911.
+There seems to be a pattern emerging as the typography is once again sans serif, low contrast and in capital letters. The width is condensed on some of the letters such as U and T and some aspects aren’t quite the same height such as the rounded parts of letters R and P. This seems the most like typical cinema signs as ‘little time would have been given to typographic niceties’ (<https://readerboards.co.uk/american-cinema-style-signs/>) so the letters didn’t always look like they belonged to the same typeface. Perhaps this is an attempt to feel more authentic? It is an independent cinema after all, and it hasn’t tried to be too modern as it ‘still has the original box office window’ from 1911.
 
 PICTURE OF PHOENIX
 
-Throwing a curveball is the Phoenix Picturehouse. Once an independent cinema, it is now part of a larger chain of Picturehouse cinemas owned by Cineworld. Only the two letter Ps are capitalised in this cinemas name with the typeface being a somewhat handwritten style. There is also more of a contrast in the lettering making this typeface more interesting to look at. Though it is part of a chain, there may be an attempt to give off the impression of an independent cinema as the lack of capitals and block style letters seems less commercial. The typeface feels friendly and seems to match their values as they claim that their ‘communities make us’.
+Throwing a curveball is the Phoenix Picturehouse. Once an independent cinema, it is now part of a larger chain of Picturehouse cinemas owned by Cineworld. 
+
+The handwritten style of this typeface sets it apart from the others. Where we have seen all caps, only the two letter P's are capitalised here. This seems more 
+
+There is also a somewhat high contrast, making this typeface more visually interesting. Though it is part of a chain, there may be an attempt to give off the impression of an independent cinema as the lack of capitals and block style letters gives it a less commercial tone.
