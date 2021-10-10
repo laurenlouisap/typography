@@ -8,6 +8,6 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 To explore the different typefaces used all across cinema, from movie posters to credits.
