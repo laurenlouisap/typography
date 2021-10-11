@@ -26,9 +26,6 @@ Simplicity is key here. The low contrast and heavy weight of this typeface is ea
 I seem to have identified the typeface as 'program narrow OT medium' by Emigre (above). The only aspect that strays from this is the apostrophe used, perhaps a design choice from the brand to look slightly more sophisticated.
 
 Joe and Seph's\
-Another brand that has used two different typefaces, but possibly for very different reasons. The two typefaces almost suggest two different personalities as they are quite contrasting. Despite this, and quite deceivingly, Joe and Seph are not two different people. It makes so much sense when finding out the creators name is... wait for it... Joseph. \
-The typeface used for 'Joe' is heavy weight, low contrast and in all caps. \
-The typeface used for 'Seph's' is a script font and has quite a high contrast in the lettering.
-
-Overall the typefaces together suggest high quality\
-Looking at the typefaces, you may not necessarily assume they are a popcorn brand but can certainly see it is some sort of sweet food.
+Another brand that has used two different typefaces, but possibly for very different reasons. The two typefaces almost suggest two different personalities as they are quite contrasting. Despite this, and quite deceivingly, Joe and Seph are not two different people. It makes so much sense when finding out the creators name is... wait for it... Joseph. This is a family business and this seems perfectly reflected in these typefaces and added graphics which suggest it is hand crafted.\
+The typeface used for 'Joe' is heavy weight, low contrast and in all caps. It doesn't give away too much but possibly represents the creator himself. The typeface used for 'Seph's' is a script font and has quite a high contrast in the lettering. It feels more sophisticated and suggests luxury, representing Joseph's talent at creating high quality food.\
+Looking at the typefaces, you may not necessarily assume they are a popcorn brand but can certainly see it is a high quality food product and is a family business.
