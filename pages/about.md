@@ -10,7 +10,7 @@ tags: null
 description: null
 show: true
 ---
-This blog will cover all things typography in cinema. Typefaces may be the last thing we think we pay any attention to when watching our favourite films but this site aims to explore them. From the cinemas themselves to popcorn brands, it will look at different typefaces used and the meanings they allude. 
+This blog will cover all things typography in cinema. Typefaces may be the last thing we think we pay any attention to when watching our favourite films, but this site aims to explore them. From the cinemas themselves to popcorn brands, it will look at different typefaces used and the meanings they allude. 
 
 Designed in Adobe Illustrator, the logo for this site is a simple film reel with the letter 't' encorporated into the logo representing the title of the site 'type in the talkies'. The colours are simple but the overall design clearly links to film and cinema so works perfectly. 
 
