@@ -10,9 +10,8 @@ It just wouldn't be the cinema without some popcorn. Let's have a look at the ty
 Butterkist
 
 They boast about being the 'Nation's favourite popcorn' and judging from their unique typeface, it is clear why.\
-Being high contrast, varying weights and sizes, this typeface works seamlessly at being the 
-
-The company themselves have stated that the typeface is intended to represent 'the moving of the popping corn' (<https://www.designweek.co.uk/issues/13-19-february-2017/butterkist/>). It is fun and engaging to look at, just as popcorn may be considered a fun snack to make and eat. \
+Being high contrast, varying weights and sizes, this typeface works seamlessly at being the spearhead of a popcorn company with its fun tone and personality. The company themselves have stated that the typeface is intended to represent 'the moving of the popping corn' (<https://www.designweek.co.uk/issues/13-19-february-2017/butterkist/>). \
+The curved aspects \
  \
 Very smooth. Handwritten? It somehow manages to look like butter. Or at least the texture. Like it would melt in the mouth. high x height ? High contrast. Outlined as well- stands out. Regular weight? Maybe heavy in some places. Somewhat condensed- letters are close together, flow from one another.
 
