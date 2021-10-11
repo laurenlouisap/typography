@@ -15,9 +15,14 @@ I don't know about anyone else but the typeface somehow manages to look smooth l
 Propercorn\
 The typeface used for 'proper' is heavy weight, low contrast, a somewhat condensed width and in all caps. It feels not so dissimilar to typefaces seen on cinema branding. On the opposite end, the typeface for 'corn' is handwritten, light weight, high contrast and only the initial letter 'C' is capitalised. It feels fun and creative with the letter 'C' even hooking onto the letter 'O' in 'proper'. This contrast is unexpected, just like the unexpected nature of popping kernels. 
 
+Couldn't find the exact typeface used so may be a custom design. Getting the image up on google it appears as though the white lines inside the letters aren't perfectly straight and almost look slightly shaky as if they are hand drawn. This distinction may not be intentional as it can't be seen that easily on packaging, but it does add to this creative tone. 
+
 Metcalfe's\
-Though the heavy weight makes it bold, simplicity is key here. It is easy to read and gets the job done. It almost feels though it could be marketing as popcorn for adults as the calories are also so boldly presented on the packaging, being the same size as the brand name itself. \
-With only two typefaces used on the product overall, 
+Simplicity is key here. The low contrast and heavy weight of this typeface is easy to read and gets the job done. It almost feels though it could be marketing as popcorn for adults as the calories are also so boldly presented on the packaging, being the same size as the brand name itself. \
+Seems to be 'program narrow OT medium' by Emigre. Only difference is the apostrophe used. 
+
+\
+The typeface has rounded corners however, taking down this bold tone just a notch. 
 
 Joe and Seph's\
 Two different typefaces. Represent the individuals behind the brand. Wouldn't assume popcorn but definitely does suggest some sort of confectionary as it is fun. One handwritten and high contrast. One all caps, low contrast. Sort of suggests they are a serious business but are creative with their products (flavours)
