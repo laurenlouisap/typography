@@ -26,7 +26,9 @@ Simplicity is key here. The low contrast and heavy weight of this typeface is ea
 I seem to have identified the typeface as 'program narrow OT medium' by Emigre (above). The only aspect that strays from this is the apostrophe used, perhaps a design choice from the brand to look slightly more sophisticated.
 
 Joe and Seph's\
-Another brand that has used two different typefaces, but possibly for very different reasons. The two typefaces almost suggest two different personalities as they are quite contrasting. Despite this, and quite deceivingly, Joe and Seph are not two different people. It makes so much sense when finding out the creators name is... wait for it... Joseph.
+Another brand that has used two different typefaces, but possibly for very different reasons. The two typefaces almost suggest two different personalities as they are quite contrasting. Despite this, and quite deceivingly, Joe and Seph are not two different people. It makes so much sense when finding out the creators name is... wait for it... Joseph. \
+The typeface used for 'Joe' is heavy weight, low contrast and in all caps. \
+The typeface used for 'Seph's' is a script font and has quite a high contrast in the lettering.
 
-\
-Wouldn't assume popcorn but definitely does suggest some sort of confectionary as it is fun. One handwritten and high contrast. One all caps, low contrast. Sort of suggests they are a serious business but are creative with their products (flavours)
+Overall the typefaces together suggest high quality\
+Looking at the typefaces, you may not necessarily assume they are a popcorn brand but can certainly see it is some sort of sweet food.
