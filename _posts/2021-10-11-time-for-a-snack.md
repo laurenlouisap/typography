@@ -19,11 +19,14 @@ The typeface used for 'proper' is heavy weight, low contrast, a somewhat condens
 The exact typeface couldn't be found so this may be a custom design. Getting the image up on google it appears as though the white lines inside the letters aren't perfectly straight and almost look slightly shaky as if they are hand drawn. This distinction may not be intentional as it can't be seen that easily on packaging, but it does add to this creative tone of the packaging in general with the illustrations and bright colours. 
 
 Metcalfe's\
-Simplicity is key here. The low contrast and heavy weight of this typeface is easy to read and gets the job done. It almost feels though it could be marketing as popcorn for adults as the calories are also so boldly presented on the packaging, being the same size as the brand name itself. \
-Seems to be 'program narrow OT medium' by Emigre. Only difference is the apostrophe used. 
+Simplicity is key here. The low contrast and heavy weight of this typeface is easy to read and gets the job done. It almost feels though it could be marketing as popcorn for adults as the calories are also so boldly presented on the packaging, being the same size as the brand name itself. The typeface has rounded corners however, taking down this tone just a notch. 
 
-\
-The typeface has rounded corners however, taking down this bold tone just a notch. 
+![](../uploads/capture.jpg)
+
+I seem to have identified the typeface as 'program narrow OT medium' by Emigre (above). The only aspect that strays from this is the apostrophe used, perhaps a design choice from the brand to look slightly more sophisticated.
 
 Joe and Seph's\
-Two different typefaces. Represent the individuals behind the brand. Wouldn't assume popcorn but definitely does suggest some sort of confectionary as it is fun. One handwritten and high contrast. One all caps, low contrast. Sort of suggests they are a serious business but are creative with their products (flavours)
+Another brand that has used two different typefaces, but possibly for very different reasons. The two typefaces almost suggest two different personalities as they are quite contrasting. Despite this, and quite deceivingly, Joe and Seph are not two different people. It makes so much sense when finding out the creators name is... wait for it... Joseph.
+
+\
+Wouldn't assume popcorn but definitely does suggest some sort of confectionary as it is fun. One handwritten and high contrast. One all caps, low contrast. Sort of suggests they are a serious business but are creative with their products (flavours)
