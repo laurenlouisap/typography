@@ -16,8 +16,8 @@ Propercorn\
 The typeface used for 'proper' is heavy weight, low contrast, a somewhat condensed width and in all caps. It feels not so dissimilar to typefaces seen on cinema branding. On the opposite end, the typeface for 'corn' is handwritten, light weight, high contrast and only the initial letter 'C' is capitalised. It feels fun and creative with the letter 'C' even hooking onto the letter 'O' in 'proper'. This contrast is unexpected, just like the unexpected nature of popping kernels. 
 
 Metcalfe's\
-Though the heavy weight makes it bold, simplicity is key here. It is easy to read and gets the job done. It is almost popcorn for adults as it so boldly displays the calories of the product. \
-Sans serif though most other aspects of the packaging are serif fonts. 
+Though the heavy weight makes it bold, simplicity is key here. It is easy to read and gets the job done. It almost feels though it could be marketing as popcorn for adults as the calories are also so boldly presented on the packaging, being the same size as the brand name itself. \
+With only two typefaces used on the product overall, 
 
 Joe and Seph's\
 Two different typefaces. Represent the individuals behind the brand. Wouldn't assume popcorn but definitely does suggest some sort of confectionary as it is fun. One handwritten and high contrast. One all caps, low contrast. Sort of suggests they are a serious business but are creative with their products (flavours)
