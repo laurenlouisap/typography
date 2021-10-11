@@ -10,4 +10,6 @@ tags: null
 description: null
 show: true
 ---
-To explore the different typefaces used all across cinema, from movie posters to credits.
+This blog will cover all things typography in cinema. From the cinemas themselves to popcorn brands, it will look at different typefaces used and the meanings they allude. 
+
+There are no crazy scientific explanations to most of these ramblings, just opinions and ideas. But feel free to agree or disagree whenever you please.
