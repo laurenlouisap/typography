@@ -2,6 +2,7 @@
 layout: post
 title: Let's go to the movies
 date: 2021-10-05T14:05:38.317Z
+image: ../uploads/denise-jans-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
