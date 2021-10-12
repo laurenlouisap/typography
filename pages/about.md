@@ -18,4 +18,6 @@ Designed in Adobe Illustrator, the logo for this site is a simple film reel with
 
 This site name was chosen as it is not too long but is fun with the word 'talkies' referring to the name for films with sound. Although it is about more than just films, it is about the whole viewing experience, this still seems to communicate the general purpose of this site. 
 
+![](../uploads/banner-image-2.png)
+
 Another Illustrator creation, the banner chosen is a design of the typical marquee signs that can be found on most theatres today but were more common on older cinemas and venues. It is engaging and the largest text is the title of the site, using the same typeface as the letter in the logo. This typeface is similar to those that would be found on marquee signs being sans serif, condensed and heavy weight.
