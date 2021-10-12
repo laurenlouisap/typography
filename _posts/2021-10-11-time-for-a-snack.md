@@ -4,7 +4,7 @@ title: "Time for a snack "
 date: 2021-10-11T00:19:12.967Z
 image: ../uploads/lynda-sanchez-unsplash.jpg
 title_color: "#ffffff"
-comments: false
+comments: true
 tags:
   - Cinema
   - Design
