@@ -5,8 +5,14 @@ date: 2021-10-11T00:19:12.967Z
 image: ../uploads/lynda-sanchez-unsplash.jpg
 title_color: "#ffffff"
 comments: false
+tags:
+  - Cinema
+  - Design
+  - Media
+  - Packaging
+  - Fonts
 ---
-It just wouldn't be the cinema without some popcorn. Let's have a look at the typefaces that the big UK brands are using on their packaging. 
+It just wouldn't be the cinema without some popcorn. Granted we probably all have finished our share just watching the trailers. But let's have a quick look at the typefaces that the big UK brands are using on their packaging. 
 
 Butterkist\
 They boast about being the 'Nation's favourite popcorn' and judging from their unique typeface, it is clear why.\
