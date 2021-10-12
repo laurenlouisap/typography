@@ -30,3 +30,5 @@ Joe and Seph's\
 Another brand that has used two different typefaces, but possibly for very different reasons. The two typefaces almost suggest two different personalities as they are quite contrasting. Despite this, and quite deceivingly, Joe and Seph are not two different people. It makes so much sense when finding out the creators name is... wait for it... Joseph. This is a family business and this seems perfectly reflected in these typefaces and added graphics which suggest it is hand crafted.\
 The typeface used for 'Joe' is heavy weight, low contrast and in all caps. It doesn't give away too much but possibly represents the creator himself. The typeface used for 'Seph's' is a script font and has quite a high contrast in the lettering. It feels more sophisticated and suggests luxury, representing Joseph's talent at creating high quality food.\
 Looking at the typefaces, you may not necessarily assume they are a popcorn brand but can certainly see it is a high quality food product and is a family business.
+
+Header image by Lynda Sanchez on Unsplash
