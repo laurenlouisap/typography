@@ -39,3 +39,5 @@ PICTURE OF PHOENIX
 Throwing a curveball is the Phoenix Picturehouse. Once an independent cinema, it is now part of a larger chain of Picturehouse cinemas owned by Cineworld. 
 
 The handwritten style of this typeface sets it apart from the others. Where we have seen all caps, only the two letter P's are capitalised here. Somehow handwritten styles come across as more friendly, being more approachable than a large heavy weight typeface. This fits in with the values the company strives for as they claim their cinemas are 'welcoming' and 'nestled in the heart of their neighbourhoods' (<https://www.picturehouses.com/about-us>). There is also a somewhat high contrast, making this typeface more visually interesting. Though it is part of a chain, there may be an attempt to give off the impression of an independent cinema as the lack of capitals and block style letters gives it a less commercial tone.
+
+Header image by Denise Jans on Unsplash.
