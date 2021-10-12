@@ -22,7 +22,7 @@ The exact typeface couldn't be found so this may be a custom design. Getting the
 Metcalfe's\
 Simplicity is key here. The low contrast and heavy weight of this typeface is easy to read and gets the job done. It almost feels though it could be marketing as popcorn for adults as the calories are also so boldly presented on the packaging, being the same size as the brand name itself. The typeface has rounded corners however, taking down this tone just a notch. 
 
-![](../uploads/capture.jpg)
+![Screenshot of the word 'metcalfe's' and the font used](../uploads/capture.jpg)
 
 I seem to have identified the typeface as 'program narrow OT medium' by Emigre (above). The only aspect that strays from this is the apostrophe used, perhaps a design choice from the brand to look slightly more sophisticated. This brand doesn't necessarily feel as exciting as some of the others but does clearly communicate it's product.
 
