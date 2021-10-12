@@ -12,9 +12,7 @@ tags:
   - Media
   - Buildings
 ---
-Despite all the new savvy ways to stream online, when we want to see the new bond or the latest instalment of the marvel cinematic universe we instinctively head to the cinema. You may not think you’ve ever paid much attention to the typography as you’ve entered the cinema, but you could probably accurately imagine what the logo of your local cinema looks like. 
-
-What typefaces do the cinemas of Oxford use and how do they fit into their branding? Let's take a look.
+Despite all the new savvy ways to stream online, when we want to see the new bond or the latest instalment of the marvel cinematic universe we instinctively head to the cinema. You may not think you’ve ever paid much attention to the typography as you’ve entered the cinema, but you could probably accurately imagine what the logo of your local cinema looks like. What typefaces do the cinemas of Oxford use and how do they fit into their branding? Let's take a look.
 
 PICTURE OF ODEON NOW AND ORIGINAL
 
