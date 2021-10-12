@@ -29,7 +29,7 @@ Curzon is a smaller chain of cinemas with most of them being located in London. 
 
 We find ourselves with another sans serif typeface in all caps, except this time not shying away from those rounded edges on letters such as C and O. The typeface is of a regular weight and low contrast, maintaining legibility and simplicity. It is also monospaced which seems to be a design choice for this particular brand as it is not on their name when googling the brand or viewing the website. These features together create a slightly more luxurious tone as they allow for ease on the eyes when reading the name. As Westgate's website states 'Curzon offers the finest cinematic experience in Oxford' (<https://westgateoxford.co.uk/roof-terrace>), this seems to match up perfectly.
 
-![Image of the Ultimate Picture Palace in Oxford](../uploads/ultime-picture-palace.jpg "Image found on Ultimate Picture Palace website")
+![Image of the Ultimate Picture Palace in Oxford. From Ultimate Picture Palace website](../uploads/ultime-picture-palace.jpg)
 
 A hidden gem of Oxford entertainment, The Ultimate Picture Palace is tucked away down Cowley Road.
 
