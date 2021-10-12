@@ -21,9 +21,7 @@ The one we all know and love: the Odeon. Even if you’re not an avid cinema goe
 ![Image of the first Odeon cinema in 1928](../uploads/first-odeon.jpg "Image found on Birmingham Mail")
 
 \
-The typography the Odeon uses on their name hasn’t changed much since it was founded in 1928 (above), which is probably what makes it so distinctive to us. It feels so familiar as even looking at the old typography you can see the block style lettering has stayed the same. Only the colour and height seem to have changed the most. The heavy weight, and low contrast capital letters make it bold and captivating, just as films should do. This typeface makes a statement; appropriate as they are one of the leading UK cinemas. Interestingly, there are no rounded edges on the typography. Could this be a nod to the rectangular shape of a cinema screen? The condensed width of the letters is somewhat reminiscent of the typography that can be seen on earlier theatres and cinemas such as on now showing signs, often seen on what is known as a ‘marquee’.
-
-PICTURE OF MARQUEE
+The typography the Odeon uses on their name hasn’t changed much since it was founded in 1928 (above), which is probably what makes it so distinctive to us. It feels so familiar as, looking at the old typography, you can see the block style lettering has stayed the same. Only the colour and height seem to have changed the most. The heavy weight, and low contrast capital letters make it bold and captivating, just as films should do. This typeface makes a statement; appropriate as they are one of the leading UK cinemas. Interestingly, there are no rounded edges on the typography. Could this be a nod to the rectangular shape of a cinema screen? The condensed width of the letters is somewhat reminiscent of the typography that can be seen on earlier theatres and cinemas such as on now showing signs, often seen on what is known as a ‘marquee’.
 
 ![Image of Curzon cinema in Oxford](../uploads/img_8290.jpg "Original image by Lauren Pine")
 
