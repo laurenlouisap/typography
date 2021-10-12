@@ -18,18 +18,18 @@ PICTURE OF ODEON NOW AND ORIGINAL
 
 The one we all know and love: the Odeon. Even if you’re not an avid cinema goer, you’ve probably happened to find yourself in an Odeon branch at some stage in your life. 
 
-![Image of the first Odeon cinema in 1928](../uploads/first-odeon.jpg "Image found on Birmingham Mail")
+![Image of the first Odeon cinema. From Birmingham Mail](../uploads/first-odeon.jpg)
 
 \
 The typography the Odeon uses on their name hasn’t changed much since it was founded in 1928 (above), which is probably what makes it so distinctive to us. It feels so familiar as, looking at the old typography, you can see the block style lettering has stayed the same. Only the colour and height seem to have changed the most. The heavy weight, and low contrast capital letters make it bold and captivating, just as films should do. This typeface makes a statement; appropriate as they are one of the leading UK cinemas. Interestingly, there are no rounded edges on the typography. Could this be a nod to the rectangular shape of a cinema screen? The condensed width of the letters is somewhat reminiscent of the typography that can be seen on earlier theatres and cinemas such as on now showing signs, often seen on what is known as a ‘marquee’.
 
-![Image of Curzon cinema in Oxford](../uploads/img_8290.jpg "Original image by Lauren Pine")
+![Original image of Curzon cinema in Oxford by Lauren Pine](../uploads/img_8290.jpg)
 
 Curzon is a smaller chain of cinemas with most of them being located in London. However, this one can be found on the roof of Westgate shopping centre. 
 
 We find ourselves with another sans serif typeface in all caps, except this time not shying away from those rounded edges on letters such as C and O. The typeface is of a regular weight and low contrast, maintaining legibility and simplicity. It is also monospaced which seems to be a design choice for this particular brand as it is not on their name when googling the brand or viewing the website. These features together create a slightly more luxurious tone as they allow for ease on the eyes when reading the name. As Westgate's website states 'Curzon offers the finest cinematic experience in Oxford' (<https://westgateoxford.co.uk/roof-terrace>), this seems to match up perfectly.
 
-![Image of the Ultimate Picture Palace in Oxford](../uploads/ultime-picture-palace.jpg "Image found on Ultimate Picture Palace website")
+![Image of the Ultimate Picture Palace in Oxford. From Ultimate Picture Palace website](../uploads/ultime-picture-palace.jpg)
 
 A hidden gem of Oxford entertainment, The Ultimate Picture Palace is tucked away down Cowley Road.
 
