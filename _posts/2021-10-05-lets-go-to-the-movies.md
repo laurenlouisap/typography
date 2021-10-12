@@ -4,7 +4,7 @@ title: Let's go to the movies
 date: 2021-10-05T14:05:38.317Z
 image: ../uploads/denise-jans-unsplash.jpg
 title_color: "#ffffff"
-comments: false
+comments: true
 tags:
   - Cinema
   - Graphics
@@ -14,7 +14,7 @@ tags:
 ---
 Despite all the new savvy ways to stream online, when we want to see the new bond or the latest instalment of the marvel cinematic universe we instinctively head to the cinema. You may not think you’ve ever paid much attention to the typography as you’ve entered the cinema, but you could probably accurately imagine what the logo of your local cinema looks like. What typefaces do the cinemas of Oxford use and how do they fit into their branding? Let's take a look.
 
-PICTURE OF ODEON NOW AND ORIGINAL
+![Original image of Odeon cinema in Oxford by Lauren Pine](../uploads/img_8300.jpg)
 
 The one we all know and love: the Odeon. Even if you’re not an avid cinema goer, you’ve probably happened to find yourself in an Odeon branch at some stage in your life. 
 
