@@ -18,7 +18,7 @@ Despite all the new savvy ways to stream online, when we want to see the new bon
 
 The one we all know and love: the Odeon. Even if you’re not an avid cinema goer, you’ve probably happened to find yourself in an Odeon branch at some stage in your life. 
 
-![Image of the first Odeon cinema. From Birmingham Mail](../uploads/first-odeon.jpg)
+![Image of the first Odeon cinema. From birminghammail.co.uk](../uploads/first-odeon.jpg)
 
 \
 The typography the Odeon uses on their name hasn’t changed much since it was founded in 1928 (above), which is probably what makes it so distinctive to us. It feels so familiar as, looking at the old typography, you can see the block style lettering has stayed the same. Only the colour and height seem to have changed the most. The heavy weight, and low contrast capital letters make it bold and captivating, just as films should do. This typeface makes a statement; appropriate as they are one of the leading UK cinemas. Interestingly, there are no rounded edges on the typography. Could this be a nod to the rectangular shape of a cinema screen? The condensed width of the letters is somewhat reminiscent of the typography that can be seen on earlier theatres and cinemas such as on now showing signs, often seen on what is known as a ‘marquee’.
@@ -29,13 +29,13 @@ Curzon is a smaller chain of cinemas with most of them being located in London. 
 
 We find ourselves with another sans serif typeface in all caps, except this time not shying away from those rounded edges on letters such as C and O. The typeface is of a regular weight and low contrast, maintaining legibility and simplicity. It is also monospaced which seems to be a design choice for this particular brand as it is not on their name when googling the brand or viewing the website. These features together create a slightly more luxurious tone as they allow for ease on the eyes when reading the name. As Westgate's website states 'Curzon offers the finest cinematic experience in Oxford' (<https://westgateoxford.co.uk/roof-terrace>), this seems to match up perfectly.
 
-![Image of the Ultimate Picture Palace in Oxford. From Ultimate Picture Palace website](../uploads/ultime-picture-palace.jpg)
+![Image of the Ultimate Picture Palace in Oxford. From uppcinema.com](../uploads/ultime-picture-palace.jpg)
 
 A hidden gem of Oxford entertainment, The Ultimate Picture Palace is tucked away down Cowley Road.
 
 There seems to be a pattern emerging as the typography is once again sans serif, low contrast and in capital letters. The width is condensed on some of the letters such as U and T and some aspects aren’t quite the same height such as the rounded parts of letters R and P. This seems the most like typical cinema signs as ‘little time would have been given to typographic niceties’ (<https://readerboards.co.uk/american-cinema-style-signs/>) so the letters didn’t always look like they belonged to the same typeface. Perhaps this is an attempt to feel more authentic? It is an independent cinema after all, and it hasn’t tried to be too modern as it ‘still has the original box office window’ from 1911.
 
-PICTURE OF PHOENIX
+![Image of the Phoenix Picture House cinema in Oxford. From dailyinfo.co.uk](../uploads/phoenix-picturehouse-2.jpg)
 
 Throwing a curveball is the Phoenix Picturehouse. Once an independent cinema, it is now part of a larger chain of Picturehouse cinemas owned by Cineworld. 
 
