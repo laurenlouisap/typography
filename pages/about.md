@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
+title: About This Site
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
