@@ -11,3 +11,7 @@ favicon: ../uploads/type-blog-logo.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - name: About Me
+    siteurl: /aboutme/
+    tab: true
