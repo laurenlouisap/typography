@@ -20,7 +20,16 @@ Spencer- watch the trailer here:
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=20BIS4YxP5Q?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+The trailer mostly sticks to one typeface throughout. creating a definitive feel for this film. What is that feeling you may ask? Elegance, class and quintessentially British.
+
+The typeface is a serif font which somehow gives off an appearance of higher class. This could be because serif fonts have been around for much longer whereas sans serif fonts are, perhaps, more modern, dating back to 1805 (okay, maybe not modern like your iPhone but more modern than 3200 BC when it was believed us humans started writing).\
+Being a light/regular weight, the typeface feels very fragile suggesting wealth and luxury. 
+
+ and a light/regular weight. It is somewhat monospaced and high contrast, creating a lot of space. It is exactly the kind of font we would associate with luxury and wealth because of this space and the serifs, 
+
 Serif font. Monospaced? High contrast. Light/regular weight.
+
+What do all these different impressions have in common? One might, on occassion, use such descriptions when discussing those of royal blood. In other words, the font is fancy like the Queen.
 
 The quotes from reviews that are shown are much larger than the publications that they are from. Whilst it is important for the publisher/author of quote to be on the screen in order to give credibility for the audience, the actual quote is more significant as this is what should draw people to the film.
 
