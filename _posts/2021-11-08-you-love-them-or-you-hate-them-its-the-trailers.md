@@ -10,6 +10,8 @@ tags:
   - Publishing
   - Fonts
 ---
+
+
 While some may begrude the trailers that play before a film, in all the times I've been to the cinema I have never missed them. However, I'm certain there are far more adverts than trailers than there ever used to be, or is that just me?
 
 On my recent cinema trips, I made sure to pay special attention to the typography used in the trailers.
@@ -29,3 +31,15 @@ The title of the film is the same as other text was throughout the trailer but i
 Then a page of close together text that is purely there to give credit to other companies and people who had significant involvement in the film. Film buffs or anyone interested would not be able to necessarily read this whilst sat in a cinema but could certainly go away and pause this on their own devices were they to watch it on youtube or elsewhere.
 
 Finally it shows the release date with the text 'in theatres 11.5' being shown on the screen. Again, it is centered, large and in the same font as throughout the film. It is the last part of the trailer and the last bit of text so if the audience go away remembering anything about 'the film about Diana' it would hopefully be 'I think it's out in November'
+
+Spiderman- No Way Home: 
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=rt-2cxAiPJk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Film company logos. Sony. Columbia. Marvel studios. All in capitals, heavy weight, block style lettering. Low contrast. Helps make it all very striking and bold and eye-catching just as superheros are. They stand out. All silver in colour/look metallic. This is normal for marvel and columbia but sony doesn't always look this way. Stylistic choice to fit in with the others for the trailer. Metallic choice- typical of action, futuristic, superhero genre films as it relates to lots of elements such as materials used in technology and cars and superhero outfits? 
+
+Release date 'this christmas'. Centered. In same typeface used across promotion for this spiderman film. (differs from previous films) Different colours to previous/a lot darker. Signals a change to audience. Is this a new era/end of an era? Is this film going to be a lot darker in content? \
+Capitalised letters. Border around letters a different colour. Creates a contrast- like the contrast between spiderman and peter parker. Heavy weight, low contrast. Sans-serif. Bold. Very rounded edges. Extended width. Extended width- futuristic? \
+Title screen- 'spiderman' in same typeface as earlier.
+
+'No way home' in a different typeface. Not all caps. Only initial letters of words are capitalised.
