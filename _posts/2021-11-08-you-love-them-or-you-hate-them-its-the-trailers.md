@@ -42,11 +42,13 @@ Finally it shows the release date the text 'in theatres 11.5'. Again, it is cent
 The first text shown in this trailer is in the film company logos (Sony, Columbia and Marvel Studios). In all of these the typefaces are in capital letters, a heavy weight and low contrast with block-style letters. These elements combined help the logos appear striking, bold and eye-catching. Does this remind us of anything? Superheroes, perhaps? \
 The logos are all silver in colour/look metallic. This is normal for marvel and columbia but sony doesn't always look this way. This could be a stylistic choice by them to fit in with the others for the trailer. 
 
-The text that reads 'this christmas' is in a t
+The text that reads 'this christmas' is in a custom typeface for the Spiderman. Each film in the three Tom Holland Spiderman trilogy uses a similar typeface in slightly diffent colours. 
 
 Centered. In same typeface used across promotion for this spiderman film. (differs from previous films) Different colours to previous/a lot darker. Signals a change to audience. Is this a new era/end of an era? Is this film going to be a lot darker in content? \
 Capitalised letters. Border around letters a different colour. Creates a contrast- like the contrast between spiderman and peter parker. Heavy weight, low contrast. Sans-serif. Bold. Very rounded edges. Extended width. Extended width- futuristic? \
 Title screen- 'spiderman' in same typeface as earlier.
+
+
 
 'No way home' in a different typeface. Not all caps. Only initial letters of words are capitalised. Almost handwritten. Regular weight and contrast. Like spiderman may have written it. Represents his youth and being one of the more fun/lighthearted marvel films? O in 'home' replaced with a symbol spidermans head/mask/eyes. Slanted upwards- not perfect adds to this handwritten feel. E on home is capitalised. 
 
