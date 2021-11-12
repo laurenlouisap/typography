@@ -2,7 +2,7 @@
 layout: post
 title: Let's go to the movies
 date: 2021-10-05T14:05:38.317Z
-image: ../uploads/denise-jans-unsplash.jpg
+image: ../uploads/myke-simon-unsplash.jpg
 title_color: "#ffffff"
 comments: true
 tags:
@@ -41,4 +41,4 @@ Throwing a curveball is the Phoenix Picturehouse. Once an independent cinema, it
 
 The handwritten style of this typeface sets it apart from the others. Where we have seen all caps, only the two letter P's are capitalised here. Somehow handwritten styles come across as more friendly, being more approachable than a large heavy weight typeface. This fits in with the values the company strives for as they claim their cinemas are 'welcoming' and 'nestled in the heart of their neighbourhoods' (<https://www.picturehouses.com/about-us>). There is also a somewhat high contrast, making this typeface more visually interesting. Though it is part of a chain, there may be an attempt to give off the impression of an independent cinema as the lack of capitals and block style letters gives it a less commercial tone.
 
-Header image by Denise Jans on Unsplash.
+Header image by Myke Simon on Unsplash.
