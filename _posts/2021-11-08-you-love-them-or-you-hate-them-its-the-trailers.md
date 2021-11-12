@@ -2,6 +2,7 @@
 layout: post
 title: You love them or you hate them, it's the trailers
 date: 2021-11-08T16:56:53.593Z
+image: ../uploads/denise-jans-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -10,8 +11,6 @@ tags:
   - Publishing
   - Fonts
 ---
-
-
 While some may begrude the trailers that play before a film, in all the times I've been to the cinema I have never missed them. However, I'm certain there are far more adverts than trailers than there ever used to be, or is that just me?
 
 On my recent cinema trips, I made sure to pay special attention to the typography used in the trailers.
@@ -54,3 +53,5 @@ Title screen- 'spiderman' in same typeface as earlier.
 'No way home' in a different typeface. Not all caps. Only initial letters of words are capitalised. Almost handwritten. Regular weight and contrast. Like spiderman may have written it. Represents his youth and being one of the more fun/lighthearted marvel films? O in 'home' replaced with a symbol spidermans head/mask/eyes. Slanted upwards- not perfect adds to this handwritten feel. E on home is capitalised. 
 
 Official date at end. 'december 17' centered and in different typeface to the rest of the text on screen. In the same spiderman typeface. Represents it's importance and similar to 'spencer' helps to remember as it stands out.
+
+Header image by Denise Jans on Unsplash.
