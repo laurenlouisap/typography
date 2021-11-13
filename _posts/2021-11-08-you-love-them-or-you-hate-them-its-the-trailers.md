@@ -42,13 +42,16 @@ Finally it shows the release date the text 'in theatres 11.5'. Again, it is cent
 The first text shown in this trailer is in the film company logos (Sony, Columbia and Marvel Studios). In all of these the typefaces are in capital letters, a heavy weight and low contrast with block-style letters. These elements combined help the logos appear striking, bold and eye-catching. Does this remind us of anything? Superheroes, perhaps? \
 The logos are all silver in colour/look metallic. This is normal for marvel and columbia but sony doesn't always look this way. This could be a stylistic choice by them to fit in with the others for the trailer. 
 
-The text that reads 'this christmas' is in a custom typeface for the Spiderman. Each film in the three Tom Holland Spiderman trilogy uses a similar typeface in slightly diffent colours. 
+The text that reads 'this christmas' is in a custom typeface for the Spiderman. 
 
-Centered. In same typeface used across promotion for this spiderman film. (differs from previous films) Different colours to previous/a lot darker. Signals a change to audience. Is this a new era/end of an era? Is this film going to be a lot darker in content? \
-Capitalised letters. Border around letters a different colour. Creates a contrast- like the contrast between spiderman and peter parker. Heavy weight, low contrast. Sans-serif. Bold. Very rounded edges. Extended width. Extended width- futuristic? \
-Title screen- 'spiderman' in same typeface as earlier.
+The typeface is very bold, being in capital letters, a low contrast and heavy weight. Somehow, the youth and idea of spiderman being 'friendly' is created perhaps through the choice of it being sans-serif, having very rounded edges and the fun colours. It seems they have chosen for the typefacce to have an extended width, which is reminiscent of text used on  technology or in futuristic films. 
 
-'No way home' in a different typeface. Not all caps. Only initial letters of words are capitalised. Almost handwritten. Regular weight and contrast. Like spiderman may have written it. Represents his youth and being one of the more fun/lighthearted marvel films? O in 'home' replaced with a symbol spidermans head/mask/eyes. Slanted upwards- not perfect adds to this handwritten feel. E on home is capitalised. 
+Each film in the three Tom Holland Spiderman trilogy uses this typeface but in slightly diffent colours. In this film, the colours used are quite different and significantly darker. This could be an attempt to signal change to the audience. Is this a new era or end of an era? Maybe this film will have a much darker tone. The use of two different colours (blue with a yellow border) create a contrast- much like the contrast between Spiderman and Peter Parker.
+
+On the title screen 'Spiderman' is in same typeface as earlier and is centered and large, drawing the most attention- it is important that people know the film advertised is Spiderman as his character is the what attracts large audiences. \
+The text 'No Way Home' is in a different typeface, seperating it from the other part of the title. There are elements of it that make it appear less perfect and therefore handwritten, as if Spiderman himself scrawled it on. The 'O' is replaced with a symbol representing his face. The text itself is slanted and the 'E' on home is capitalised even though in the rest of the text it is just the start of each word that is capitalised. This all comes together contrasting the big, bold 'Spiderman' text and instead represents his youth and the fact the trilogy is fun and lighthearted.
+
+
 
 Official date at end. 'december 17' centered and in different typeface to the rest of the text on screen. In the same spiderman typeface. Represents it's importance and similar to 'spencer' helps to remember as it stands out.
 
