@@ -11,9 +11,7 @@ tags:
   - Publishing
   - Fonts
 ---
-While some may resent the trailers that play before a film, in all the times I've been to the cinema I have never missed them. However, I'm certain there are far more adverts than trailers than there ever used to be, or is that just me?
-
-On my recent cinema trips, I made sure to pay special attention to the typography used in the trailers.
+While some may resent the trailers that play before a film, in all the times I've been to the cinema I have never missed them. However, I'm certain there are far more adverts than trailers than there ever used to be, or is that just me? On my recent cinema trips, I made sure to pay special attention to the typography used in the trailers.
 
 **Spencer- watch the trailer here:** 
 
