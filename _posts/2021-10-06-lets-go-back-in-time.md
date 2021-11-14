@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Let's go back in time
+title: You and me got a whole lot of history
 date: 2021-10-06T12:37:06.594Z
 title_color: "#ffffff"
 comments: false
 ---
-Typography in movies has evolved over the years as movies are made at a more rapid pace and companies fight to get that blockbuster title. But what typefaces were in use in earlier cinema films?\
-\
-Back before we had such a thing as movies with sound, the 'talkies', audiences enjoyed silent movies. The typography in these were just as, if not more, crucial to the films. Letter cards were common in silent movies, and the focus was on communicating information to the audiences so typefaces had to be legible. 
+Typography in movies has evolved over the years as movies are made at a more rapid pace and companies fight to get that blockbuster title. But what was typography like back when in the early days of cinema?
 
-You wouldn't want your movie ruined because you can't even read the text on the screen. 
+Any text in films now is very limited. Subtitles are moslty available on tv and streaming services if you need them, or like me, have become so accustomed to having them on that the language genuinely makes no sense when you turn them off. However, back in early days of cinema, before the age of the 'talkies', audiences enjoyed silent movies. Whilst actors worked overtime trying to communicate story and emotion, text was essential to the film.
 
+Silent movies would often feature title cards, or 'intertitles', that would feature speech, a date/time or other information to help drive the films story. As these were so crucial to communicating details to the audience, the typography had to be legible. You wouldn't want your movie ruined because the text is too hard to read. The typefaces used would often be a heavy weight, large and centered on the screen. 
 
-
-As movies became more popular, they had to appeal to audiences and try and do something out of the ordinary so typeface was a major aspect of this.
+Now text shown through films may be details such as a simple date/time indicator, which may only appear for a few seconds and often at the bottom of the screen or in a small size.
