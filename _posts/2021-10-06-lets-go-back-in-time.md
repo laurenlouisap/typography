@@ -26,7 +26,7 @@ Let's take a look at an example:
 
 Everything is about branding now. Movies will typically stick to a custom typeface for a lot of the text such as in the titles and very basic typefaces for aspects like credits and subtitles. 
 
-Now that text doesn't drive a films plot in the same way
+Now that text doesn't drive a films plot in the same way, 
 
  text shown on the screen throughout films may be details such as a simple date/time indicator, which may only appear for a few seconds and often at the bottom of the screen or in a small size. These would most likely also appear over a clip in the film rather than a dedicated card just for that text like in silent films. 
 
