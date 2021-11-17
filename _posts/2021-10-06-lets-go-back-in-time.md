@@ -18,15 +18,13 @@ Silent movies would often feature title cards, or 'intertitles', that would feat
 'dialogue intertitles' and 'expository intertitles' 
 
 Easy for films to be viewed in all languages as the text just has to be changed/translated.\
-Where the ideas for subtitles on films came from (instead layered over the motion clip instead of a break in the film for the text as this would make no logistical sense and ruin the flow of the film)
-
-
+Where the ideas for subtitles on films came from (instead layered over the motion clip instead of a break in the film for the text as this would make no logistical sense and ruin the flow of the film).
 
 Whilst they had to remain legible, these interitles were a chance for a bit of fun. With the standard for silent films being black and white, design elements were limited but the text could easily be designed to create some excitement. 
 
 Let's take a look at an example:
 
-Everything is about branding now. Movies will typically stick to a custom typeface or a few similar ones 
+Everything is about branding now. Movies will typically stick to a custom typeface for a lot of the text such as in the titles and very basic typefaces for aspects like credits and subtitles. 
 
  text shown on the screen throughout films may be details such as a simple date/time indicator, which may only appear for a few seconds and often at the bottom of the screen or in a small size. These would most likely also appear over a clip in the film rather than a dedicated card just for that text like in silent films. 
 
