@@ -15,7 +15,11 @@ Typography in movies has evolved over the years as movies are made at a more rap
 
 Any text in films now is very limited. Subtitles are moslty available on tv and streaming services if you need them, or like me, have become so accustomed to having them on that the language genuinely makes no sense when you turn them off. However, back in early days of cinema, before the age of the 'talkies', audiences enjoyed silent movies. Whilst actors worked overtime trying to communicate story and emotion, text was essential to the film.
 
-Silent movies would often feature title cards, or 'intertitles', that would feature speech, a date/time or other information to help drive the films story. As these were so crucial to communicating details to the audience, the typography had to be legible. You wouldn't want your movie ruined because the text is too hard to read. The typefaces used would often be a heavy weight, large and centered on the screen.  
+Silent movies would often feature title cards, or 'intertitles', that would feature speech, a date/time or other information to help drive the films story. Think of these as providing a voice for the actors and expressing what can't be expressed solely through acting. As these were so crucial to communicating details to the audience, the typography had to be legible. You wouldn't want your movie ruined because the text is too hard to read. The typefaces used would often be a heavy weight, large and centered on the screen.  
+
+Whilst they had to remain legible, these interitles were a chance for a bit of fun. With the standard for silent films being black and white, design elements were limited but the text could easily be designed to create some excitement. 
+
+
 
 Let's take a look at an example:
 
