@@ -21,4 +21,6 @@ Let's take a look at an example:
 
 Now text shown on the screen throughout films may be details such as a simple date/time indicator, which may only appear for a few seconds and often at the bottom of the screen or in a small size. These would most likely also appear over a clip in the film rather than a dedicated card just for that text like in silent films. 
 
+An interesting trend is text on the screen showing what appears on a mobile phone during a film. A feature that is completely unique to modern films.
+
 Header image by Elijah Mears on Unsplash.
