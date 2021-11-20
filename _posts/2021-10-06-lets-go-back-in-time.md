@@ -24,7 +24,9 @@ Whilst they had to remain legible, these interitles were a chance for a bit of f
 
 Let's take a look at an example:
 
-The cabinet of dr. caligari. Apparently translates to 'Wait!'
+![Screenshot from 'The Cabinet of Dr. Caligari' silent film](../uploads/silent-film-type.jpg)
+
+The Cabinet of Dr. Caligari. Apparently translates to 'Wait!'
 
 Everything is about branding now. Movies will typically stick to a custom typeface for a lot of the text such as in the titles and very basic typefaces for aspects like credits and subtitles. 
 
