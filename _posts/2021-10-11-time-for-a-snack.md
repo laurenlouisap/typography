@@ -29,7 +29,7 @@ I've always assumed it was one word, but looking at the name it seems it is mean
 The typeface used for 'proper' is heavy weight, low contrast, a somewhat condensed width and in all caps. It feels not so dissimilar to typefaces seen on cinema branding. On the opposite end, the typeface for 'corn' is handwritten, light weight, high contrast and only the initial letter 'C' is capitalised. It feels fun and creative with the letter 'C' even hooking onto the letter 'O' in 'proper'. This contrast is unexpected, just like the unexpected nature of popping kernels. \
 The exact typeface couldn't be found so this may be a custom design. Getting the image up on google it appears as though the white lines inside the letters aren't perfectly straight and almost look slightly shaky as if they are hand drawn. This distinction may not be intentional as it can't be seen that easily on packaging, but it does add to this creative tone of the packaging in general with the illustrations and bright colours. 
 
-![Original image of Metcalfe's popcorn bag on shelf by Lauren Pine](../uploads/img_8294.jpg)
+![Image of Metcalfe's popcorn from metcalfessnacks.com](../uploads/metcalfes.png)
 
 **Metcalfe's**\
 Simplicity is key here. The low contrast and heavy weight of this typeface is easy to read and gets the job done. It almost feels though it could be marketing as popcorn for adults as the calories are also so boldly presented on the packaging, being the same size as the brand name itself. The typeface has rounded corners however, taking down this tone just a notch. 
