@@ -29,6 +29,8 @@ The quotes from reviews that are shown are much larger than the publications tha
 
 The title of the film is the same as other text was throughout the trailer but it stands alone when it appears, making it clear that this is the title. It draws a lot of attention as it is centered in the middle and, again, monospaced. 
 
+![Screenshot from 'Spencer' film trailer](../uploads/spencer-3.jpg)
+
 'Directed by' and 'written by' is a smaller size than the names of these people, highlighting their significant roles in creating the film.
 
 A screen of close together text is shown that is purely there to give credit to other companies and people who also had significant involvement in the film. Film buffs or anyone interested would not be able to necessarily read this whilst sat in a cinema but could certainly go away and pause this on their own devices were they to watch it on youtube or elsewhere.
