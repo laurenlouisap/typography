@@ -65,6 +65,4 @@ The text 'No Way Home' is in a different typeface, seperating it from the other 
 
 The last part of the trailer shows the official release date and some other text about the film. Again, we have our trusty Spiderman typeface, although, the date is the only text that uses the same colours as elsewhere, whilst the other text is in a plain white. This clearly brings our attention directly to the release date as our eyes notice the bold colours first and the text is in a significantly larger size, standing out amongst the rest.
 
-
-
-Header image by Denise Jans on Unsplash.
+Header image by Denise Jans on Unsplash
