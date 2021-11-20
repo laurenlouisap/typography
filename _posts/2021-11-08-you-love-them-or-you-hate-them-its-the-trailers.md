@@ -61,6 +61,10 @@ Each film in the three Tom Holland Spiderman trilogy uses this typeface but in s
 On the title screen 'Spiderman' is in same typeface as earlier and is centered and large, drawing the most attention- it is important that people know the film advertised is Spiderman as his character is the what attracts large audiences. \
 The text 'No Way Home' is in a different typeface, seperating it from the other part of the title. There are elements of it that make it appear less perfect and therefore handwritten, as if Spiderman himself scrawled it on. The 'O' is replaced with a symbol representing his face. The text itself is slanted and the 'E' on home is capitalised even though in the rest of the text it is just the start of each word that is capitalised. This all comes together contrasting the big, bold 'Spiderman' text and instead represents his youth and the fact the trilogy is fun and lighthearted.
 
-The last part of the trailer shows the official release date and some other text about the film. The release date is in the same custom typeface with all the same colours, whilst the rest of the text is the same style but in a plain white. The date is also the largest text on the screen, centered and is first all these choices ensuring that this is the first thing audiences read and the one they are most likely to remember.
+![Screenshot from 'Spiderman: No Way Home' trailer](../uploads/spiderman-3.jpg)
+
+The last part of the trailer shows the official release date and some other text about the film. Again, we have our trusty Spiderman typeface, although, the date is the only text that uses the same colours as elsewhere, whilst the other text is in a plain white. This clearly brings our attention directly to the release date as our eyes notice the bold colours first and the text is in a significantly larger size, standing out amongst the rest.
+
+
 
 Header image by Denise Jans on Unsplash.
