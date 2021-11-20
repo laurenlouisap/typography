@@ -22,7 +22,7 @@ Being high contrast, varying weights and sizes, this fun and bold custom typefac
 I don't know about anyone else but the typeface somehow manages to look smooth like butter with the curved edges and tails, flowing seamlessly into each other. The whole typeface manages to appeal to the taste buds, making this product look like something perfect for those with a sweet tooth. \
 The brand has had a few design changes over the years since it was founded in 1914, but the typeface used has remained the same, being exciting, engaging and eccentric.
 
-![Original image of Proper Corn popcorn on shelf by Lauren Pine](../uploads/img_8297.jpg)
+![Image of Proper Corn popcorn from proper.co.uk](../uploads/proper-corn.png)
 
 **Proper Corn**\
 I've always assumed it was one word, but looking at the name it seems it is meant to be separate as the brand has chosen to use two different typefaces.\
