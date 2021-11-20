@@ -14,7 +14,7 @@ tags:
 ---
 It just wouldn't be the cinema without some popcorn. Granted we probably all have finished our share just watching the trailers. But let's have a quick look at the typefaces that the big UK brands are using on their packaging. 
 
-![Original image of bag of Butterkist popcorn on shelf by Lauren Pine](../uploads/img_8292.jpg)
+![Image of Butterkist popcorn from butterkist.co.uk](../uploads/butter-kist.png)
 
 **Butterkist**\
 They boast about being the 'Nation's favourite popcorn' and judging from their unique typeface, it is clear why.\
