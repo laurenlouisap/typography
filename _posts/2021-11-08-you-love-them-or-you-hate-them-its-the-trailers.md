@@ -47,8 +47,7 @@ Finally it shows the release date the text 'in theatres 11.5'. Again, it is cent
 
 ![Screenshot from 'Spiderman: No Way Home' trailer](../uploads/studios.jpg)
 
-Some of the first text we see in this trailer are the film company logos (Sony, Columbia and Marvel Studios). In all of these the typefaces are in capital letters, a heavy weight and low contrast with block-style letters. These elements combined help the logos appear striking, bold and eye-catching. Does this remind us of anything? Superheroes, perhaps? \
-The logos are all silver in colour/look metallic. This is normal for marvel and columbia but sony doesn't always look this way. This could be a stylistic choice by them to fit in with the others for the trailer. 
+Some of the first text we see in this trailer are the film company logos (Sony, Columbia and Marvel Studios). In all of these the typefaces are in capital letters, a heavy weight and low contrast with block-style letters. These elements combined help the logos appear striking, bold and eye-catching. Does this remind us of anything? Superheroes, perhaps? The logos are all silver in colour/look metallic. This is normal for marvel and columbia but sony doesn't always look this way. This could possibly be a stylistic choice by the company to fit in with the trailer.
 
 ![Screenshot from 'Spiderman: No Way Home' trailer](../uploads/spiderman-1.jpg)
 
