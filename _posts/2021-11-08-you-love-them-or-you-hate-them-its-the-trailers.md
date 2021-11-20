@@ -41,14 +41,22 @@ A screen of close together text is shown that is purely there to give credit to 
 
 Finally it shows the release date the text 'in theatres 11.5'. Again, it is centered, large and in the same typeface as throughout the film. It is the last part of the trailer and the text shown so if the audience go away remembering anything about 'the film about Diana' it would hopefully be 'I think it's out in November'.
 
-**Spiderman- No Way Home:** <https://www.youtube.com/watch?v=rt-2cxAiPJk>
+**Spiderman- No Way Home teaser trailer:** <https://www.youtube.com/watch?v=rt-2cxAiPJk>
 
-The first text shown in this trailer is in the film company logos (Sony, Columbia and Marvel Studios). In all of these the typefaces are in capital letters, a heavy weight and low contrast with block-style letters. These elements combined help the logos appear striking, bold and eye-catching. Does this remind us of anything? Superheroes, perhaps? \
+
+
+![Screenshot from 'Spiderman: No Way Home' trailer](../uploads/studios.jpg)
+
+Some of the first text we see in this trailer are the film company logos (Sony, Columbia and Marvel Studios). In all of these the typefaces are in capital letters, a heavy weight and low contrast with block-style letters. These elements combined help the logos appear striking, bold and eye-catching. Does this remind us of anything? Superheroes, perhaps? \
 The logos are all silver in colour/look metallic. This is normal for marvel and columbia but sony doesn't always look this way. This could be a stylistic choice by them to fit in with the others for the trailer. 
 
-The text that reads 'this christmas' is in a custom typeface for Spiderman (a special typeface you won't see elsewhere that is created just for these films). This typeface is very bold, being in capital letters, a low contrast and heavy weight. Your 'friendly neighbourhood Spiderman' shines through in the typeface as it is sans-serif is with very rounded edges and a variation of colours, making it very fun and youthful. It seems they have chosen for the typefacce to have an extended width, which is similar to a lot of fonts used on futuristic or sci-fi films.
+![Screenshot from 'Spiderman: No Way Home' trailer](../uploads/spiderman-1.jpg)
+
+The text that reads 'this christmas' is in a custom typeface for Spiderman (a special typeface you won't see elsewhere that is created just for these films). This typeface is very bold, being in capital letters, a low contrast and heavy weight. Our 'friendly neighbourhood Spiderman' is perfectly captured through this typeface with rounded edges as opposed to sharp corners which we would typically associate with danger. The sans-serif and range of colours also add to this and create a feeling of youthfulness and fun. Similar to fonts and typefaces used on futuristic/sci-fi films, the width of this typeface is somewhat extended.  
 
 Each film in the three Tom Holland Spiderman trilogy uses this typeface but in slightly diffent colours. In this film, the colours used are quite different and significantly darker. This could be an attempt to signal change to the audience. Is this a new era or end of an era? Maybe this film will have a much darker tone. The use of two different colours (blue with a red border) create a contrast- much like the contrast between Spiderman and Peter Parker.
+
+![Screenshot from 'Spiderman: No Way Home' trailer](../uploads/spiderman-2.jpg)
 
 On the title screen 'Spiderman' is in same typeface as earlier and is centered and large, drawing the most attention- it is important that people know the film advertised is Spiderman as his character is the what attracts large audiences. \
 The text 'No Way Home' is in a different typeface, seperating it from the other part of the title. There are elements of it that make it appear less perfect and therefore handwritten, as if Spiderman himself scrawled it on. The 'O' is replaced with a symbol representing his face. The text itself is slanted and the 'E' on home is capitalised even though in the rest of the text it is just the start of each word that is capitalised. This all comes together contrasting the big, bold 'Spiderman' text and instead represents his youth and the fact the trilogy is fun and lighthearted.
