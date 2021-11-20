@@ -33,7 +33,11 @@ The title of the film is the same as other text was throughout the trailer but i
 
 'Directed by' and 'written by' is a smaller size than the names of these people, highlighting their significant roles in creating the film.
 
+![Screenshot from 'Spencer' film trailer](../uploads/spencer-4.jpg)
+
 A screen of close together text is shown that is purely there to give credit to other companies and people who also had significant involvement in the film. Film buffs or anyone interested would not be able to necessarily read this whilst sat in a cinema but could certainly go away and pause this on their own devices were they to watch it on youtube or elsewhere.
+
+![Screenshot from 'Spencer' film trailer](../uploads/spencer-5.jpg)
 
 Finally it shows the release date the text 'in theatres 11.5'. Again, it is centered, large and in the same typeface as throughout the film. It is the last part of the trailer and the text shown so if the audience go away remembering anything about 'the film about Diana' it would hopefully be 'I think it's out in November'.
 
