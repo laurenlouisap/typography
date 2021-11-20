@@ -25,6 +25,8 @@ What do all these different impressions have in common? One might, on occassion,
 
 The quotes from reviews that are shown are much larger than the publications that they are from. Whilst it is important for the publisher/author of quote to be on the screen in order to give credibility for the audience, the actual quote is more significant as this is what should draw people to the film.
 
+![Screenshot from 'Spencer' film trailer](../uploads/spencer-2.jpg)
+
 The title of the film is the same as other text was throughout the trailer but it stands alone when it appears, making it clear that this is the title. It draws a lot of attention as it is centered in the middle and, again, monospaced. 
 
 'Directed by' and 'written by' is a smaller size than the names of these people, highlighting their significant roles in creating the film.
