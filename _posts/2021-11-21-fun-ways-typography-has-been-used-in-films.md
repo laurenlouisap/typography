@@ -14,12 +14,12 @@ The font used is Franklin Gothic and it seems they have chosen for the width to 
 
 ![](../uploads/fonts-star-wars.jpg)
 
-
-
 (Watch the opening from the first film here: <https://www.youtube.com/watch?v=iXDnFYu91vY>)
 
-Catch me if you can opening credits
+**Catch Me If You Can**\
+Before we get into it, if you haven't seen this film...what are you doing? It's a MUST. 
 
-Sherlock's mind palace (is a tv show but honestly it cannot be ignored)
+**Grease**
 
-Grease opening credits
+**Sherlock**\
+Okay, okay we know this is a TV show but it simply cannot be ignored.
