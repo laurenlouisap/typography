@@ -10,7 +10,11 @@ Kinetic typography- moving text. animation.
 **Star Wars**\
 Are images even necessary here? Even someone who has never seen Star Wars could probably tell you what the opening is. The iconic yellow text crawls across the screen at an angle, disappearing into the universe behind it. 
 
-The font used is Franklin Gothic and it seems they have chosen for the width to be extended. 
+The font used is Franklin Gothic and it seems they have chosen for the width to be extended. This suits the film well as it creates a lot of space which is ideal since it is set in space itself.
+
+The yellow colour stands out against the dark background whilst also matching perfectly as it resembles the colour of stars. 
+
+The text is justified in the centre, helping it look visually appealing and easy for the audience to follow along. 
 
 ![](../uploads/fonts-star-wars.jpg)
 
@@ -19,7 +23,8 @@ The font used is Franklin Gothic and it seems they have chosen for the width to 
 **Catch Me If You Can**\
 Before we get into it, if you haven't seen this film...what are you doing? It's a MUST. 
 
-**Grease**
+**Grease**\
+The opening to this film should never be skipped. 
 
 **Sherlock**\
 Okay, okay we know this is a TV show but it simply cannot be ignored.
