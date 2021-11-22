@@ -10,7 +10,9 @@ Kinetic typography- moving text. animation.
 **Star Wars**\
 Are images even necessary here? Even someone who has never seen Star Wars could probably tell you what the opening is. The iconic yellow text crawls across the screen at an angle, disappearing into the universe behind it. 
 
-The font used is Franklin Gothic
+The font used is Franklin Gothic and it seems they have chosen for the width to be extended. 
+
+![](../uploads/fonts-star-wars.jpg)
 
 
 
