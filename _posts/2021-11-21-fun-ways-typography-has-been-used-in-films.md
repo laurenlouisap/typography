@@ -2,6 +2,7 @@
 layout: post
 title: fun ways typography has been used in films
 date: 2021-11-21T19:56:15.653Z
+image: ../uploads/bruno-martins-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
@@ -47,3 +48,5 @@ This really helps the audience to understand his thought processes and is a bril
 Many different typefaces are often used, representing Sherlock's mind with the different and vast amounts of information. 
 
 (Watch a clip here: <https://www.youtube.com/watch?v=0FSKTndbwVo>)
+
+Header image by Bruno Martins on Unsplash
