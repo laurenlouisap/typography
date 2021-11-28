@@ -53,7 +53,7 @@ Okay, okay we know this is a TV show but it simply cannot be ignored.
 
 At various points in the show, Sherlock, enters his 'mind palace' where he visualises memories and facts, searching for a specific piece of information that may help him solve a case. The show utilises typography by having words appear on the screen with Sherlock sometimes interacting with them, swiping them away. 
 
-This really helps the audience to understand his thought processes and 
+This really helps the audience to understand his thought processes and is a brilliant way of showcasing the characters talents.  
 
 ![Screenshot from 'Sherlock' tv show](../uploads/sherlock-mind-palace.jpg)
 
