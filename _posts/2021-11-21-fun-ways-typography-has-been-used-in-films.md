@@ -8,7 +8,11 @@ comments: false
 Kinetic typography- moving text. animation. 
 
 **Star Wars**\
-Are images even necessary here? Even someone who has never seen Star Wars could probably tell you what the opening is. The iconic yellow text crawls across the screen at an angle, disappearing into the universe behind it. 
+Are images even necessary here? Even someone who has never seen Star Wars could probably tell you what the opening is. The iconic yellow text crawls across the screen at an angle, disappearing into the universe behind it.
+
+![Screenshot from Star Wars (1977) opening](../uploads/star-wars-opening.jpg)
+
+ 
 
 The font used is Franklin Gothic and it seems they have chosen for the width to be extended. This suits the film well as it creates a lot of space which is ideal since it is set in space itself.
 
@@ -16,7 +20,7 @@ The yellow colour stands out against the dark background whilst also matching pe
 
 The text is justified in the centre, helping it look visually appealing and easy for the audience to follow along. 
 
-![](../uploads/fonts-star-wars.jpg)
+![Screenshot of Franklin Gothic typeface](../uploads/fonts-star-wars.jpg)
 
 (Watch the opening from the first film here: <https://www.youtube.com/watch?v=iXDnFYu91vY>)
 
