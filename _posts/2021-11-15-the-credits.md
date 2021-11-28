@@ -2,6 +2,7 @@
 layout: post
 title: credits
 date: 2021-11-15T16:06:49.284Z
+image: ../uploads/jakob-owens-unsplash-2.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -18,3 +19,5 @@ Nowadays, these are at the end making it easy for you to just switch off the tel
 The 'fun' credits. The typography here might be more exciting, possibly a custom typeface for that film or franchise. 
 
 The 'serious' credits. You know, the black screen with the rolling credits, usually in white. This may be in a custom typeface for the film, but in most cases it a very simple font will be chosen to keep it legible and digestible. They tend to roll quite quickly so you may miss a lot of information unless you are to sit and pause the credits. Purpose is to give all crew, cast and anyone who was involved the recognition that they deserve and have worked so hard for.
+
+Header Image by Jakob Owens on Unsplash
