@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Has the artistry in movie typography diminished?
-date: 2021-10-06T12:37:06.594Z
+date: 2021-11-29T13:37:06.594Z
 image: ../uploads/bruno-martins-unsplash.jpg
 title_color: "#ffffff"
 comments: false
