@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fun ways typography has been used in films
+title: 3 fun examples of typography in film
 date: 2021-11-21T19:56:15.653Z
 image: ../uploads/bruno-martins-unsplash.jpg
 title_color: "#ffffff"
