@@ -27,8 +27,24 @@ The text is justified in the centre, helping it look visually appealing and easy
 **Catch Me If You Can**\
 Before we get into it, if you haven't seen this film...what are you doing? It's a MUST. 
 
+This has to be one of the best title sequences ever, it is perfect at keeping you engaged right from the very start. 
+
+It uses two different typefaces: Coolvetica and Hellenic Wide. 
+
+![Screenshot of Hellenic Wide and Coolvetica typefaces](../uploads/catch-me-fonts.jpg)
+
+The Coolvetica is the star of the show here, with the 
+
+
+
+(Watch the opening here: <https://www.youtube.com/watch?v=aN715Rp4L74>)
+
 **Grease**\
 The opening to this film should never be skipped. 
 
+(Watch the opening here: <https://www.youtube.com/watch?v=XA-xjRsY71w>)
+
 **Sherlock**\
 Okay, okay we know this is a TV show but it simply cannot be ignored.
+
+(W
