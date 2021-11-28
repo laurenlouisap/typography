@@ -5,8 +5,6 @@ date: 2021-11-21T19:56:15.653Z
 title_color: "#ffffff"
 comments: false
 ---
-Kinetic typography- moving text. animation. 
-
 **Star Wars**\
 Are images even necessary here? Even someone who has never seen Star Wars could probably tell you what the opening is. The iconic yellow text crawls across the screen at an angle, disappearing into the universe behind it.
 
@@ -35,18 +33,7 @@ The Coolvetica is the star of the show here, with many of the stems of the lette
 
 ![Screenshot from 'Catch Me If You Can' film opening](../uploads/catch-me-if-you-can.png)
 
-This opening sequence is very interesting and uses typography in a unique and creative way.
-
 (Watch the opening here: <https://www.youtube.com/watch?v=aN715Rp4L74>)
-
-**Grease**\
-The opening to this film should never be skipped. 
-
-Mostly this is a very cool animation 
-
-
-
-(Watch the opening here: <https://www.youtube.com/watch?v=XA-xjRsY71w>)
 
 **Sherlock**\
 Okay, okay we know this is a TV show but it simply cannot be ignored.
@@ -56,5 +43,7 @@ At various points in the show, Sherlock, enters his 'mind palace' where he visua
 This really helps the audience to understand his thought processes and is a brilliant way of showcasing the characters talents.  
 
 ![Screenshot from 'Sherlock' tv show](../uploads/sherlock-mind-palace.jpg)
+
+Many different typefaces are often used, representing Sherlock's mind with the different and vast amounts of information. 
 
 (Watch a clip here: <https://www.youtube.com/watch?v=0FSKTndbwVo>)
