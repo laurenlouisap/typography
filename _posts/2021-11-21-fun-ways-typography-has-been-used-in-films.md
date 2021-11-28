@@ -2,7 +2,7 @@
 layout: post
 title: 3 fun examples of typography in film
 date: 2021-11-21T19:56:15.653Z
-image: ../uploads/bruno-martins-unsplash.jpg
+image: ../uploads/jakob-owens-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
@@ -49,4 +49,4 @@ Many different typefaces are often used, representing Sherlock's mind with the d
 
 (Watch a clip here: <https://www.youtube.com/watch?v=0FSKTndbwVo>)
 
-Header image by Bruno Martins on Unsplash
+Header image by Jakob Owens on Unsplash
