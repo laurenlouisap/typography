@@ -1,6 +1,6 @@
 ---
 layout: post
-title: credits
+title: The End- wait, what about the credits?
 date: 2021-11-15T16:06:49.284Z
 image: ../uploads/jakob-owens-unsplash-2.jpg
 title_color: "#ffffff"
