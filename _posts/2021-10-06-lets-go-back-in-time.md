@@ -25,17 +25,13 @@ The Cabinet of Dr. Caligari. Apparently translates to 'Wait!'
 
 There were two different types of intertitles. 'Dialogue intertitles' are what they sound like, speech on screen, like the one above. 'Expository intertitles' served as providing extra information to the audience, like the one below:
 
-![]()
+![Screenshot from 'The Cabinet of Dr. Caligari' silent film](../uploads/cabinet-film.jpeg)
 
-(translation: that night the first in a series of mysterious crimes took place)
+(Translation: that night the first in a series of mysterious crimes took place)
 
 Easy for films to be viewed in all languages as the text just has to be changed/translated.\
 Where the ideas for subtitles on films came from (instead layered over the motion clip instead of a break in the film for the text as this would make no logistical sense and ruin the flow of the film).
 
-Everything is about branding now. Movies will typically stick to a custom typeface for a lot of the text such as in the titles and very basic typefaces for aspects like credits and subtitles. 
 
-Now that text doesn't drive a films plot in the same way, 
-
- text shown on the screen throughout films may be details such as a simple date/time indicator, which may only appear for a few seconds and often at the bottom of the screen or in a small size. These would most likely also appear over a clip in the film rather than a dedicated card just for that text like in silent films. 
 
 Header image by Elijah Mears on Unsplash.
