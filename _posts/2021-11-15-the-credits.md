@@ -15,7 +15,9 @@ I don't think I ever watched the credits all the way through until I started wat
 
 It wasn't so easy to ignore the credits as once upon a time, they were at the beginning. You may have seen this in some older films such as The Wizard of Oz (1939). Nowadays, these are at the end making it easy for you to just switch off the telly or leave the cinema (never do this in a Marvel film if you don't want to be judged greatly). I have noticed that there are different credits you may see at the end of a film, let's look at a few examples of these.
 
-The 'fun' credits. The typography here might be more exciting, possibly a custom typeface for that film or franchise. 
+The 'fun' credits. The typography here might be more exciting, possibly a custom typeface for that film or franchise. They may feature fun animations or extra clips from the film with names of actors and primary crew and production roles appearing on the screen. Possibly it will feature 'kinetic typography', which is a fancy name for 'moving text'. As we are likely to skip or ignore the credits, these are good at keeping the audience interested and engaged whilst giving the recognition to those involved. 
+
+![Screenshot from 'Spiderman: Homecoming' film credits](../uploads/spiderman-credits.jpeg)
 
 The 'serious' credits. You know, the black screen with the rolling credits, usually in white. These likely come after the 'fun' credits or immediately after the film if there aren't any. This may be in a custom typeface for the film, but in most cases it a very simple font will be chosen to keep it legible and digestible. They tend to roll quite quickly so you may miss a lot of information unless you are to sit and pause the credits. The primary purpose of these is to give all crew, cast and anyone who was involved the hard earned and deserved recognition for their work.
 
