@@ -17,7 +17,9 @@ It wasn't so easy to ignore the credits as once upon a time, they were at the be
 
 The 'fun' credits. The typography here might be more exciting, possibly a custom typeface for that film or franchise. They may feature fun animations or extra clips from the film with names of actors and primary crew and production roles appearing on the screen. Possibly it will feature 'kinetic typography', which is a fancy name for 'moving text'. As we are likely to skip or ignore the credits, these are good at keeping the audience interested and engaged whilst giving the recognition to those involved. 
 
-![Screenshot from 'Spiderman: Homecoming' film credits](../uploads/spiderman-credits.jpeg)
+![Screenshot from 'Spiderman: Homecoming' film credits](../uploads/spiderman-credits.jpg)
+
+See above this example from 'Spiderman: Homecoming' with various colourful animations in a stop motion style. It features Spiderman himself and many other aspects of the film. The typeface used for the credits is in all caps, italicised, condensed and has a shadow. This isn't a style you would likely see on the later credits of a film and is intended to match the tone of the animations. These animations appear hand drawn with the typeface adding to this as the lines are somewhat imperfect and not rigid or straight. 
 
 The 'serious' credits. You know, the black screen with the rolling credits, usually in white. These likely come after the 'fun' credits or immediately after the film if there aren't any. This may be in a custom typeface for the film, but in most cases it a very simple font will be chosen to keep it legible and digestible. They tend to roll quite quickly so you may miss a lot of information unless you are to sit and pause the credits. The primary purpose of these is to give all crew, cast and anyone who was involved the hard earned and deserved recognition for their work.
 
