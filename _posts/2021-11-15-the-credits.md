@@ -17,6 +17,6 @@ It wasn't so easy to ignore the credits as once upon a time, they were at the be
 
 The 'fun' credits. The typography here might be more exciting, possibly a custom typeface for that film or franchise. 
 
-The 'serious' credits. You know, the black screen with the rolling credits, usually in white. These likely come after the 'fun' credits or immediately after the film if there aren't any. This may be in a custom typeface for the film, but in most cases it a very simple font will be chosen to keep it legible and digestible. They tend to roll quite quickly so you may miss a lot of information unless you are to sit and pause the credits. Purpose is to give all crew, cast and anyone who was involved the recognition that they deserve and have worked so hard for.
+The 'serious' credits. You know, the black screen with the rolling credits, usually in white. These likely come after the 'fun' credits or immediately after the film if there aren't any. This may be in a custom typeface for the film, but in most cases it a very simple font will be chosen to keep it legible and digestible. They tend to roll quite quickly so you may miss a lot of information unless you are to sit and pause the credits. The primary purpose of these is to give all crew, cast and anyone who was involved the hard earned and deserved recognition for their work.
 
 Header Image by Jakob Owens on Unsplash
