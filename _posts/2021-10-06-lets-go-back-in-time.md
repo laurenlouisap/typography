@@ -29,11 +29,6 @@ There were two different types of intertitles. 'Dialogue intertitles' are what t
 
 (Translation: that night the first in a series of mysterious crimes took place)
 
-It was easy for silent films to be viewed in all languages as the text simply had to be changed/translated. This concept inspired the idea for the subtitles we see in film and TV today. However, it is now layered over the motion clip instead of a dedicated break in the film as this w
-
-Easy for films to be viewed in all languages as the text just has to be changed/translated.\
-Where the ideas for subtitles on films came from (instead layered over the motion clip instead of a break in the film for the text as this would make no logistical sense and ruin the flow of the film).
-
-
+It was easy for silent films to be viewed in all languages as the text simply had to be changed/translated. This concept inspired the idea for the subtitles we see in film and TV today. However, it is now layered over the motion clip instead of a dedicated break in the film as this would ruin the flow of the film.
 
 Header image by Elijah Mears on Unsplash.
