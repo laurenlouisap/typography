@@ -25,7 +25,9 @@ The Cabinet of Dr. Caligari. Apparently translates to 'Wait!'
 
 There were two different types of intertitles. 'Dialogue intertitles' are what they sound like, speech on screen, like the one above. 'Expository intertitles' served as providing extra information to the audience, like the one below:
 
+![]()
 
+(translation: that night the first in a series of mysterious crimes took place)
 
 Easy for films to be viewed in all languages as the text just has to be changed/translated.\
 Where the ideas for subtitles on films came from (instead layered over the motion clip instead of a break in the film for the text as this would make no logistical sense and ruin the flow of the film).
