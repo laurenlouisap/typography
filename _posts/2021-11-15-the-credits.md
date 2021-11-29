@@ -13,7 +13,7 @@ tags:
 ---
 I don't think I ever watched the credits all the way through until I started watching Marvel films. Even then I can't say I have paid much attention to the typography as I'm more likely eagerly waiting for those extra scenes. 
 
-It wasn't so easy to ignore the credits as once upon a time, they were at the beginning. You may have seen this in some older films such as The Wizard of Oz (1939). Nowadays, these are at the end making it easy for you to just switch off the telly or leave the cinema (never do this in a Marvel film if you don't want to be judged greatly). We have noticed that there are different credits you may see at the end of a film, let's look at a few examples of these.
+It wasn't so easy to ignore the credits as once upon a time, they were at the beginning. You may have seen this in some older films such as The Wizard of Oz (1939). Nowadays, these are at the end making it easy for you to just switch off the telly or leave the cinema (never do this in a Marvel film if you don't want to be judged greatly). We have noticed that there are different credits you may see at the end of a film, let's have a look at these.
 
 The 'fun' credits. The typography here might be more exciting, possibly a custom typeface for that film or franchise. They may feature fun animations or extra clips from the film with names of actors and primary crew and production roles appearing on the screen. Possibly it will feature 'kinetic typography', which is a fancy name for 'moving text'. As we are likely to skip or ignore the credits, these are good at keeping the audience interested and engaged whilst giving the recognition to those involved. 
 
