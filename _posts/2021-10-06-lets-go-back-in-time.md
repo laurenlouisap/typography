@@ -31,6 +31,6 @@ There were two different types of intertitles. 'Dialogue intertitles' are what t
 
 It was easy for silent films to be viewed in all languages as the text simply had to be changed/translated. This concept inspired the idea for the subtitles we see in film and TV today. However, it is now layered over the motion clip instead of a dedicated break in the film as this would ruin the flow of the film.
 
-
+Text is not as much of a focus in films now. We may see subtitles, or some on screen text such as a time/date indicator but these may not be as interesting to look at as the intertitles in silent films as filmmakers do not want it to take the audience's focus away from more important aspects. 
 
 Header image by Elijah Mears on Unsplash.
